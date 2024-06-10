@@ -86,6 +86,16 @@ export const projects = {
   title: "Projects",
   cards: [
     {
+      title: "Moodify",
+      description: "Moodify is a music recommendation system that suggests tracks based on your current mood and preferences. Leveraging the Spotify API for music recommendations and OpenAI's ChatGPT for natural language understanding, it offers user authentication, mood analysis, and a history of mood-based music recommendations."
+      icons: [
+        {
+          icon: faGithub,
+          link: "https://github.com/scarlet2131/Moodify-SoulSonic",
+        },
+      ]
+    },
+    {
       title: "Integrated Dealership Database Upgrade",
       description: "I unified dealership databases across MySQL and MongoDB, streamlined data syncing, and enhanced error handling for better scalability and simplicity.",
     },
@@ -115,6 +125,7 @@ export const projects = {
     }
   ],
 }
+
 
 export const contact = {
   title: "Get in touch",
