@@ -36,7 +36,7 @@ export const intro = {
     },
     {
       title: "Resume",
-      link: "https://drive.google.com/file/d/1c73-oUlvTheNX742L8VozrL9RKChBzS4/view?usp=drive_link",
+      link: "https://drive.google.com/file/d/1hqxrt-ljxTAG3Oo-AOJNEOmsQJh0AZsK/view?usp=drive_link",
       isPrimary: false,
     },
   ],
